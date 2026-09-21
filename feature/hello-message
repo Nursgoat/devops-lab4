@@ -1,4 +1,0 @@
-git checkout -b feature/hello-message
-git add hello.py
-git commit -m "Add hello massage"
-git push origin feature/hello-message
